@@ -5,7 +5,7 @@ import testimonials from "@/config/content/Testimonials";
 
 const UserTestimonails = () => {
   return (
-    <div className="h-[40rem] w-full relative flex flex-col items-center justify-center overflow-hidden">
+    <div className="w-full relative flex flex-col items-center justify-center overflow-hidden">
       <h2 className="text-3xl font-bold text-center mb-8 z-10 md:text-4xl">
         Hear what our Users say about{" "}
         <span className="text-transparent bg-clip-text bg-gradient-to-br gradient-radial from-blue-500 to-blue-900">
